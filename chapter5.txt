@@ -4,3 +4,6 @@ And some more
 
 
 Text before commit
+
+
+Just commit without add .
